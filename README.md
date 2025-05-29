@@ -6,8 +6,7 @@
 
 ### 🧠 Project Overview
 
-This project involves building a **robust machine learning-based decision support model** that assists universities in evaluating scholarship eligibility for students based on academic, socioeconomic, and extracurricular factors.
-
+This project involves building a **robust machine learning-based decision support model** that assists universities in evaluating scholarship eligibility for students based on GRE Score,	TOEFL Score, University Rating,	SOP, LOR, CGPA,	Research.
 The model aims to:
 
 * Improve accuracy of scholarship award prediction.
