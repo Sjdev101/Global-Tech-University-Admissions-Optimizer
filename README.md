@@ -1,9 +1,3 @@
-Here's an extended and polished version of your project description along with a detailed `README.md` file that you can use for documentation or submission purposes:
-
----
-
-## 📘 README: Scholarship Decision Support Model
-
 ### 🎯 Project Title
 
 **Scholarship Decision Support System for a Global Tech University**
